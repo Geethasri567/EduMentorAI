@@ -8,4 +8,4 @@ Video:
 [hackathon.zip](https://github.com/user-attachments/files/25417867/hackathon.zip)
 
 this is the project link: 
-https://aistudio.google.com/apps/ad2a4b7b-c97e-44fb-b661-3ec54fb38422?showPreview=true&showAssistant=true
+[https://aistudio.google.com/apps/ad2a4b7b-c97e-44fb-b661-3ec54fb38422?showPreview=true&showAssistant=true](https://ais-pre-6m7scayib2dvhv65lbhlx7-14575536022.asia-east1.run.app)
